@@ -1,3 +1,4 @@
 Update migration scripts
 Check burndown chart
 Track configuration drift
+Audit database schema

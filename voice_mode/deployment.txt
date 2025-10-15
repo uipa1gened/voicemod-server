@@ -1,1 +1,1 @@
-Expand integration tests
+Summarize adoption metrics

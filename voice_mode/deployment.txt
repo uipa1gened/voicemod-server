@@ -1,2 +1,3 @@
 Summarize adoption metrics
 Prepare presentation slides
+Note customer churn

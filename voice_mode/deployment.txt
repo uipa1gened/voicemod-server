@@ -2,3 +2,4 @@ Draft detection rules
 Update validation plan
 Summarize thank-you notes
 Record automation scripts
+Record inflation impact

@@ -1,2 +1,1 @@
-Check container configs
-Record prize details
+Update migration scripts

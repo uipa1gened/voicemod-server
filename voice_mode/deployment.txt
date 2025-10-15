@@ -4,3 +4,4 @@ Summarize thank-you notes
 Record automation scripts
 Record inflation impact
 Draft compliance review
+Note reorder points

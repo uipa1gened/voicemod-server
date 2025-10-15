@@ -4,3 +4,4 @@ Track configuration drift
 Audit database schema
 Outline documentation gaps
 Summarize version bumps
+Update migration scripts

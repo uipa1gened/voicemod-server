@@ -6,3 +6,4 @@ Outline documentation gaps
 Summarize version bumps
 Update migration scripts
 Document key decisions
+Note customer churn

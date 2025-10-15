@@ -1,1 +1,2 @@
 Update CDN rules
+List rotation schedule

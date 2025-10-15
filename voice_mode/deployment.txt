@@ -1,2 +1,3 @@
 Record downtime reports
 Draft failover plan
+Document retry policy

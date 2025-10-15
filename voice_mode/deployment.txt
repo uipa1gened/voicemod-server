@@ -3,3 +3,4 @@ Check anomaly alerts
 Check error handling
 List semantic changes
 Record treasury notes
+Update logging sinks

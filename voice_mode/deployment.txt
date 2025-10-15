@@ -1,2 +1,1 @@
-Record survey highlights
-Note registry updates
+Record cache purge steps

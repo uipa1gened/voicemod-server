@@ -1,3 +1,4 @@
 Note audit trail
 Check anomaly alerts
 Check error handling
+List semantic changes

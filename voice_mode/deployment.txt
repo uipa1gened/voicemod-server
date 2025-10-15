@@ -3,3 +3,4 @@ Prepare A/B test plan
 Check shipment status
 Schedule maintenance window
 Update poll results
+Check breaking changes

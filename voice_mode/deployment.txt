@@ -12,3 +12,4 @@ Note DNS changes
 Note training epochs
 Capture monitoring gaps
 List pending approvals
+Draft onboarding checklist

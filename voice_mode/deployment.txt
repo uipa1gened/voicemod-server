@@ -1,3 +1,4 @@
 Record DB query logs
 Note encryption methods
 Update hedging plan
+Check benchmark scores

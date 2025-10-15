@@ -1,4 +1,1 @@
-Summarize adoption metrics
-Prepare presentation slides
-Note customer churn
-Investigate performance bottleneck
+Summarize rollback drills

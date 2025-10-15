@@ -6,3 +6,4 @@ Note threshold breaches
 Note DNS changes
 Draft mockup notes
 Summarize dependency map
+Record inflation impact

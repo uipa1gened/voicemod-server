@@ -1,2 +1,3 @@
 Draft detection rules
 Update validation plan
+Summarize thank-you notes

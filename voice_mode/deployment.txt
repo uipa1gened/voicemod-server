@@ -6,3 +6,4 @@ Record inflation impact
 Draft compliance review
 Note reorder points
 Update hedging plan
+Summarize zone updates

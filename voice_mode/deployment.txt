@@ -1,9 +1,1 @@
-Record CI/CD pipeline
-Record steering notes
-Summarize FX updates
-Summarize feedback loops
-Note threshold breaches
-Note DNS changes
-Draft mockup notes
-Summarize dependency map
-Record inflation impact
+Check backup status

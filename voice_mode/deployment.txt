@@ -7,3 +7,4 @@ Summarize version bumps
 Update migration scripts
 Document key decisions
 Note customer churn
+Summarize quota usage

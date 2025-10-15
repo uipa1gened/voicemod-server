@@ -3,3 +3,4 @@ Record steering notes
 Summarize FX updates
 Summarize feedback loops
 Note threshold breaches
+Note DNS changes

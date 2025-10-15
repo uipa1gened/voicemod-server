@@ -1,15 +1,1 @@
-Update migration scripts
-Check burndown chart
-Track configuration drift
 Audit database schema
-Outline documentation gaps
-Summarize version bumps
-Update migration scripts
-Document key decisions
-Note customer churn
-Summarize quota usage
-Note DNS changes
-Note training epochs
-Capture monitoring gaps
-List pending approvals
-Draft onboarding checklist

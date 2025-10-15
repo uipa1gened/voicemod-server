@@ -1,2 +1,3 @@
 Record cache purge steps
 Note press mentions
+Record risk register

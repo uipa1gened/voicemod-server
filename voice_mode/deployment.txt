@@ -1,2 +1,1 @@
-Update logging sinks
-Update retention plan
+Draft blog outline

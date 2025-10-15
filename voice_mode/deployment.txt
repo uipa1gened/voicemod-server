@@ -3,3 +3,4 @@ Update validation plan
 Summarize thank-you notes
 Record automation scripts
 Record inflation impact
+Draft compliance review

@@ -6,3 +6,4 @@ Draft integration plan
 Write summary report
 Note legal risks
 Update privacy notice
+Draft exploration notes

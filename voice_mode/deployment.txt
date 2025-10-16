@@ -10,3 +10,4 @@ Write press release draft
 Update cross-team docs
 Summarize traffic weights
 Summarize deployment tests
+Summarize zone updates

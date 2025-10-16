@@ -26,3 +26,4 @@ Draft release checklist
 Draft mockup notes
 Polish UI interactions
 Summarize quota usage
+Draft detection rules

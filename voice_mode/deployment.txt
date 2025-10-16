@@ -3,3 +3,4 @@ Draft ethics policy
 Update ad creatives
 Note customer churn
 Prepare status email
+Summarize funnel metrics

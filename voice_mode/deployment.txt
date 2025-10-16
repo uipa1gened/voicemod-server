@@ -5,3 +5,4 @@ Check ISO documents
 List password policies
 Note alignment checks
 Record volunteer names
+Update glossary

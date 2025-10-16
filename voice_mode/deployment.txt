@@ -3,3 +3,4 @@ Recheck security notes
 Fix minor issues in workflow
 Check ISO documents
 List password policies
+Note alignment checks

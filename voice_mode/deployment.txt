@@ -1,2 +1,3 @@
 Record inflation impact
 Polish UI interactions
+Record CI/CD pipeline

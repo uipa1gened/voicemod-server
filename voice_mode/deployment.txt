@@ -5,3 +5,4 @@ Note customer churn
 Prepare status email
 Summarize funnel metrics
 Summarize FX updates
+Summarize scaling notes

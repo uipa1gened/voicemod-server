@@ -5,3 +5,4 @@ Draft experiment log
 Track design iterations
 Note encryption methods
 Note legal risks
+Summarize warehouse logs

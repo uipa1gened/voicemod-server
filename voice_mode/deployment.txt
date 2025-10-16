@@ -10,3 +10,4 @@ Check error handling
 Update partner map
 Record user stories
 Update validation plan
+Plan oncall shifts

@@ -1,4 +1,1 @@
-Check export rules
-Note latency spikes
-Draft sourcing notes
-Summarize ML metrics
+Plan cashflow forecast

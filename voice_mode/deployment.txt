@@ -6,3 +6,4 @@ List password policies
 Note alignment checks
 Record volunteer names
 Update glossary
+Note campaign results

@@ -37,3 +37,4 @@ Update outreach contacts
 Record expense items
 Note interest changes
 Summarize results
+Summarize compliance checks

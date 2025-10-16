@@ -16,3 +16,4 @@ Track timeline adjustments
 Update hash list
 Summarize employee feedback
 Update rollback notes
+Note trend shifts

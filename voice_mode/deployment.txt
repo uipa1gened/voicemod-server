@@ -17,3 +17,4 @@ Update hash list
 Summarize employee feedback
 Update rollback notes
 Note trend shifts
+Check API gateway

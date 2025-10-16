@@ -1,6 +1,1 @@
-Plan cashflow forecast
-Draft recovery notes
-List legal holds
-Note suspicious patterns
-List technical debts
-Simplify configuration
+Update kill switch

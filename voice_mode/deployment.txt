@@ -27,3 +27,4 @@ Draft mockup notes
 Polish UI interactions
 Summarize quota usage
 Draft detection rules
+Polish UI interactions

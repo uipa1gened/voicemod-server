@@ -1,2 +1,3 @@
 Check export rules
 Note latency spikes
+Draft sourcing notes

@@ -1,2 +1,3 @@
 Update kill switch
 List DR procedures
+Draft HIPAA notes

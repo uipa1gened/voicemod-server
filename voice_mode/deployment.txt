@@ -1,3 +1,4 @@
 Record blue-green notes
 Draft sponsorship deals
 Collect metrics for dashboard
+Record engagement stats

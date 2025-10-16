@@ -5,3 +5,4 @@ Summarize brand sentiment
 Recheck security notes
 Update redundancy notes
 Draft feature flag list
+Draft social post plan

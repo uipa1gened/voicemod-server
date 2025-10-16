@@ -7,3 +7,4 @@ Note alignment checks
 Record volunteer names
 Update glossary
 Note campaign results
+Add privacy considerations

@@ -7,3 +7,4 @@ Update redundancy notes
 Draft feature flag list
 Draft social post plan
 Check error handling
+Update partner map

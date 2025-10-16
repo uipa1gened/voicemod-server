@@ -43,3 +43,4 @@ List action follow-ups
 Record interview notes
 Check monitoring alerts
 Draft weekly digest
+Summarize PCI items

@@ -15,3 +15,4 @@ Record progress KPIs
 Track timeline adjustments
 Update hash list
 Summarize employee feedback
+Update rollback notes

@@ -30,3 +30,4 @@ Draft detection rules
 Polish UI interactions
 Note suspicious patterns
 Update pager duty notes
+Summarize call notes

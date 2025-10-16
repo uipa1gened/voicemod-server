@@ -35,3 +35,4 @@ Update load balancer notes
 Summarize PCI items
 Update outreach contacts
 Record expense items
+Note interest changes

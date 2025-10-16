@@ -10,3 +10,4 @@ Schedule publishing plan
 Draft training slides
 Adjust retry logic
 Collect metrics for dashboard
+List DR procedures

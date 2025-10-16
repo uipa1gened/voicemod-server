@@ -2,3 +2,4 @@ Analyze customer data
 Draft ethics policy
 Update ad creatives
 Note customer churn
+Prepare status email

@@ -1,15 +1,1 @@
-Analyze customer data
-Draft ethics policy
-Update ad creatives
-Note customer churn
-Prepare status email
-Summarize funnel metrics
-Summarize FX updates
-Summarize scaling notes
-Write press release draft
-Update cross-team docs
-Summarize traffic weights
-Summarize deployment tests
-Summarize zone updates
-Summarize opt-out stats
-Note innovation backlog
+Summarize feedback loops

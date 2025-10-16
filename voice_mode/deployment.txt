@@ -1,2 +1,3 @@
 Update swag inventory
 List rate limit configs
+Update logging sinks

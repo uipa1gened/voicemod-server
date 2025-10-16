@@ -5,3 +5,4 @@ Record engagement stats
 Note press mentions
 List DR procedures
 List pending approvals
+Note pipeline DAG
